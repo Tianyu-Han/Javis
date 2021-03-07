@@ -1,0 +1,27 @@
+PODS:
+  - Javis (0.1.0)
+  - Nimble (8.0.9)
+  - Quick (2.2.1)
+
+DEPENDENCIES:
+  - Javis (from `../`)
+  - Nimble (~> 8.0.7)
+  - Quick (~> 2.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  Javis:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Javis: 2c2d59bf82805d89591601476d01e54186d79719
+  Nimble: 98b888285a615fd34f20e61753cf58ea1402bde4
+  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+
+PODFILE CHECKSUM: f8e28c7d0315010d259eb4a326f52cb90807344c
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,6 @@
+framework module Pods_Javis_Example {
+  umbrella header "Pods-Javis_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
