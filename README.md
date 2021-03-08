@@ -22,7 +22,7 @@ pod 'Javis'
 
 ## Author
 
-Figo Han, figoh@ciandt.com
+Han, hantydev@gmail.com
 
 ## License
 
